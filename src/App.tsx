@@ -57,7 +57,7 @@ function App() {
              ${ope} 
              ${ope === "" ? "" : right}`
               :
-            `計算結果:${ans}`
+            `${ans}`
         }
       </div>
       <div className="input">
